@@ -29,3 +29,10 @@ Get yarn
 ```
 npm -i yarn
 ```
+---
+### Tests
+ - Fail
+![test-fail](./ava_fail-Screenshot.png)
+
+ - Success
+![test-fail](./ava_success-Screenshot.png)
