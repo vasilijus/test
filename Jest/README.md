@@ -22,6 +22,18 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 ### Install 
  - npm:  npm install --save-dev jest
  - yarn: yarn add --dev jest
+
+
+package.json
+```
+{
+  "scripts": {
+    "test": "jest"
+  }
+}
+```
+
+
 ---
 Download from Nodejs site archived file...
 
@@ -39,4 +51,4 @@ npm --version
 ![test-fail](./test_screens/Jest_fail-Screenshot.png)
 
  - Success
-![test-fail](./test_screens/Jest_success-Screenshot.png)
+![test-succ](./test_screens/Jest_success-Screenshot.png)
