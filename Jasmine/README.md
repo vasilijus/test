@@ -27,3 +27,9 @@ Check it is installed:
 node --version
 npm --version
 ```
+### Tests
+ - Fail
+![test-fail](./test_screens/Jasmine_fail-Screenshot.png)
+
+ - Success
+![test-fail](./test_screens/Jasmine_success-Screenshot.png)
