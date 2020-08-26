@@ -1,0 +1,10 @@
+
+**/node_modules
+
+AVA/**/node_modules
+Jasmine/**/node_modules
+Jest/**/node_modules
+Karma/**/node_modules
+Lab/**/node_modules
+Mocha/**/node_modules
+

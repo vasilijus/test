@@ -1,0 +1,22 @@
+{
+  "name": "ava-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node_modules/.bin/ava tests/**/*.test.js --verbose",
+    "test:watch": "node_modules/.bin/ava --verbose --watch"
+  },
+  "dependencies": {
+    "ava": "^0.23.0",
+    "babel-register": "^6.26.0",
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  },
+  "ava": {
+    "require": [
+      "babel-register"
+    ]
+  }
+}
