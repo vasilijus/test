@@ -32,7 +32,7 @@ npm -i yarn
 ---
 ### Tests
  - Fail
-![test-fail](./ava_fail-Screenshot.png)
+![test-fail](./test_screens/ava_fail-Screenshot.png)
 
  - Success
-![test-fail](./ava_success-Screenshot.png)
+![test-fail](./test_screens/ava_success-Screenshot.png)
