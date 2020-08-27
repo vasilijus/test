@@ -10,15 +10,13 @@ npm install karma-jasmine karma-chrome-launcher jasmine-core --save-dev
 
 ### Integration 
 - node
-- ruby
-- python
+
 ---
 ### Package Managers
 - [npm](https://www.npmjs.com/package/ava)
 - [yarn](https://yarnpkg.com/package/ava)
 
 ### Prerequisites
-- node
 - npm
 
 
@@ -35,7 +33,7 @@ npm --version
 ```
 ### Tests
  - Fail
-![test-fail](./test_screens/Jasmine_fail-Screenshot.png)
+![test-fail](./test_screens/Karma_fail-Screenshot.png)
 
  - Success
-![test-fail](./test_screens/Jasmine_success-Screenshot.png)
+![test-fail](./test_screens/Karma_success-Screenshot.png)
