@@ -2,6 +2,8 @@
 
 https://karma-runner.github.io/5.0/intro/installation.html
 
+http://www.bradoncode.com/blog/2015/02/27/karma-tutorial/
+
 
 ### Modules installed
  - npm install karma --save-dev
